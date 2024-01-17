@@ -179,6 +179,17 @@ main{
 .Sponspors-img-containe img{
     width: 165px;
 }
+.footer{
+    background-color: bisque;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    color: #727272;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
 
 
 
